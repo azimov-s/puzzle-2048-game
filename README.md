@@ -1,2 +1,5 @@
-# puzzle-2048-game
-2048 game 
+# 2048
+
+
+# Sardor
+![](2048final.png)
